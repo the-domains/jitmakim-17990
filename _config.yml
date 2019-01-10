@@ -1,0 +1,49 @@
+typography_spectrum: 0.8878558939322829
+color:
+  brandStrength: 0.9898257213644683
+  lightness: 0.7418992680031806
+  saturation: 0.685738077852875
+  rhythmicContrast: 0.9156556343659759
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+layout_spectrum: 0.3351107819471508
+author:
+  name: Jit Makim
+  email: jitmakim@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b61af0f2-0884-4137-af6f-8376aba6275b.png
+name: Jitmakim
+url: 'https://thegrid.ai/jitmakim/'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Home
+    url: 'https://thegrid.ai/jitmakim/'
+    type: external
+  - name: About the author
+    id: f02fcc1b-7b70-4b14-a31a-b6578c48b609
+    type: content
+  - name: Testimonial
+    id: d69609e8-9acd-4fdb-8b48-141866a78b32
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1865abd-e6d5-4a7f-af4b-ef8c408220db.jpg
+title: 'Jit Makim (B.Pharm, M.B.A.)'
+content: []
+description: >-
+  Innovations in healthcare through scientific expertise supported by I.T and
+  business acumen. 
+purpose:
+  - type: contact
+    url: 'mailto:jitmakim@gmail.com'
+    label: Contact me
+github: true
